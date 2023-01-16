@@ -56,6 +56,7 @@ return packer.startup(function(use)
 	use {"folke/which-key.nvim"}
 
   use "rebelot/kanagawa.nvim"
+  use { "catppuccin/nvim", as = "catppuccin" }
 
 
 	-- Cmp 
